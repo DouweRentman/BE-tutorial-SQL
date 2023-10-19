@@ -1,3 +1,5 @@
+--Get a list city names and the name of the country they are in, sorted alphabetically on city name
+
 SELECT
     city.city,
     country.country
