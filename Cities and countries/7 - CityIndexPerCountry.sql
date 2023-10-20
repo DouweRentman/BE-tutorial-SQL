@@ -13,3 +13,4 @@ JOIN (
 	) cit
 on co.country_id = cit.country_id
 GROUP BY co.country;
+
